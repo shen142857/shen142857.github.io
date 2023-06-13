@@ -7,8 +7,9 @@ ___
 ### 教育经历
 ___
 <style>
-  td, th
-  { border: none!important; }
+  td, th {
+  border: none!important;
+  }
 </style>
 |2019.09-2023.06|东南大学能源与环境学院，能源与动力工程|学士|
 |2023.09-至今|东南大学能源与环境学院，动力工程及工程热物理|硕士|
