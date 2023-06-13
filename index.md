@@ -6,11 +6,17 @@ ___
 
 ### 教育经历
 ___
-<style>
-  td, th {
-  border: none!important;
-  }
-</style>
+<table>
+<tr>
+    <td>Key 1</td>
+    <td>Value 1</td>
+</tr>
+<tr>
+    <td>Key 2</td>
+    <td>Value 2</td>
+</tr>
+</table>
+
 |时间|院校及专业|学位|
 |---------|---------|---------|
 |2019.09-2023.06|东南大学能源与环境学院，能源与动力工程|学士|
